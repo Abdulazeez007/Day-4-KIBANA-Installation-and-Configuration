@@ -75,6 +75,8 @@ In this tutorial, we’ll continue from where we left off with Elasticsearch, an
      sudo systemctl status kibana.service
      ```
    - The status should show as `active (running)`.
+   - ![Make Changes to your Kibana.yml file](https://raw.githubusercontent.com/Virus192/elk-soc-automation/main/images/photo_5960977688871158764_w.jpg)
+
 
 ## Step 4: Generate Elasticsearch Enrollment Token
 
