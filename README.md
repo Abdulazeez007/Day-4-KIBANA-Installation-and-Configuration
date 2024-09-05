@@ -26,7 +26,7 @@ In this tutorial, we’ll continue from where we left off with Elasticsearch, an
      ```bash
      dpkg -i kibana-8.15.0-amd64.deb
      ```
-   - ![Download Kibana in your Instance]([https://raw.githubusercontent.com/Virus192/Day-4-Elasticsearch-Security-Configuration/main/images/photo_5965442483469009313_w.jpg)
+   - ![Download Kibana in your Instance]([https://raw.githubusercontent.com/Virus192/Day-4-Elasticsearch-Security-Configuration/main/images/photo_5965442483469009319_w.jpg)
 
 ## Step 2: Configure Kibana
 
