@@ -42,6 +42,8 @@ In this tutorial, we’ll continue from where we left off with Elasticsearch, an
 2. **Save and Exit:**
 
    - Press `CTRL + S` to save your changes, and then `CTRL + X` to exit the editor.
+    - ![Make Changes to your Kibana.yml file](https://raw.githubusercontent.com/Virus192/Day-4-Elasticsearch-Security-Configuration/main/images/photo_5965442483469009317_w.jpg)
+
 
 ## Step 3: Enable and Start Kibana Service
 
