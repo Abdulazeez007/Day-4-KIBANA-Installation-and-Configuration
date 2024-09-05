@@ -16,6 +16,9 @@ In this tutorial, we’ll continue from where we left off with Elasticsearch, an
      wget <paste_the_copied_link_here>
      ```
    - Once the download is complete, type `ls` to list the downloaded files and ensure Kibana is there.
+  
+   - ![Right Click and Copy Link Address](https://raw.githubusercontent.com/Virus192/Day-4-Elasticsearch-Security-Configuration/main/images/photo_5965442483469009313_w.jpg)
+
 
 3. **Install Kibana:**
 
