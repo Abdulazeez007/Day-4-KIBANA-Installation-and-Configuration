@@ -1,4 +1,4 @@
-# Day-4-Elasticsearch-Security-Configuration
+# DAY 4 SECURE INSTALLATION & CONFIGURATION OF KIBANA
 
 We’ll continue from where we left off with Elasticsearch, and now install and configure Kibana on your Vultr Cloud server. Kibana is a powerful data visualization and exploration tool used with Elasticsearch, allowing you to create dashboards and analyze your data.
 
